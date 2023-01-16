@@ -21,7 +21,7 @@ function clickHere() {
  div.appendChild(button)
  ul.appendChild(div)
 
- Inpute1.value=""
+ Input1.value=""
 }
 
 
